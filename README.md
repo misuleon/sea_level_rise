@@ -1,4 +1,5 @@
-Overview
+Description of the data product. DOI: https://doi.org/10.48670/moi-00238
+
 DEFINITION
 
 The sea level ocean monitoring indicator is derived from the DUACS delayed-time (DT-2021 version, “my” (multi-year) dataset used when available, “myint” (multi-year interim) used after) sea level anomaly maps from satellite altimetry based on a stable number of altimeters (two) in the satellite constellation. The product is distributed by the Copernicus Climate Change Service and the Copernicus Marine Service (SEALEVEL_GLO_PHY_CLIMATE_L4_MY_008_057). At each grid point, the trends/accelerations are estimated on the time series corrected from global TOPEX-A instrumental drift (WCRP Global Sea Level Budget Group, 2018) and regional GIA correction (GIA map of a 27 ensemble model following Spada et Melini, 2019) and adjusted from annual and semi-annual signals. Regional uncertainties on the trends estimates can be found in Prandi et al., 2021.
@@ -10,8 +11,6 @@ Change in mean sea level is an essential indicator of our evolving climate, as i
 KEY FINDINGS
 
 The altimeter sea level trends over the [1993/01/01, 2023/07/06] period exhibit large-scale variations with trends up to +10 mm/yr in regions such as the western tropical Pacific Ocean. In this area, trends are mainly of thermosteric origin (Legeais et al., 2018; Meyssignac et al., 2017) in response to increased easterly winds during the last two decades associated with the decreasing Interdecadal Pacific Oscillation (IPO)/Pacific Decadal Oscillation (e.g., McGregor et al., 2012; Merrifield et al., 2012; Palanisamy et al., 2015; Rietbroek et al., 2016). Prandi et al. (2021) have estimated a regional altimeter sea level error budget from which they determine a regional error variance-covariance matrix and they provide uncertainties of the regional sea level trends. Over 1993-2019, the averaged local sea level trend uncertainty is around 0.83 mm/yr with local values ranging from 0.78 to 1.22 mm/yr.
-
-DOI (product): https://doi.org/10.48670/moi-00238
 
 References:
 
