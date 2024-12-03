@@ -1,18 +1,18 @@
 Description of the data product. DOI: https://doi.org/10.48670/moi-00238
 
-DEFINITION
+**DEFINITION**
 
 The sea level ocean monitoring indicator is derived from the DUACS delayed-time (DT-2021 version, “my” (multi-year) dataset used when available, “myint” (multi-year interim) used after) sea level anomaly maps from satellite altimetry based on a stable number of altimeters (two) in the satellite constellation. The product is distributed by the Copernicus Climate Change Service and the Copernicus Marine Service (SEALEVEL_GLO_PHY_CLIMATE_L4_MY_008_057). At each grid point, the trends/accelerations are estimated on the time series corrected from global TOPEX-A instrumental drift (WCRP Global Sea Level Budget Group, 2018) and regional GIA correction (GIA map of a 27 ensemble model following Spada et Melini, 2019) and adjusted from annual and semi-annual signals. Regional uncertainties on the trends estimates can be found in Prandi et al., 2021.
 
-CONTEXT
+**CONTEXT**
 
 Change in mean sea level is an essential indicator of our evolving climate, as it reflects both the thermal expansion of the ocean in response to its warming and the increase in ocean mass due to the melting of ice sheets and glaciers(WCRP Global Sea Level Budget Group, 2018). According to the IPCC 6th assessment report (IPCC WGI, 2021), global mean sea level (GMSL) increased by 0.20 [0.15 to 0.25] m over the period 1901 to 2018 with a rate of rise that has accelerated since the 1960s to 3.7 [3.2 to 4.2] mm/yr for the period 2006–2018. Human activity was very likely the main driver of observed GMSL rise since 1970 (IPCC WGII, 2021). The weight of the different contributions evolves with time and in the recent decades the mass change has increased, contributing to the on-going acceleration of the GMSL trend (IPCC, 2022a; Legeais et al., 2020; Horwath et al., 2022). At regional scale, sea level does not change homogenously, and regional sea level change is also influenced by various other processes, with different spatial and temporal scales, such as local ocean dynamic, atmospheric forcing, Earth gravity and vertical land motion changes (IPCC WGI, 2021). The adverse effects of floods, storms and tropical cyclones, and the resulting losses and damage, have increased as a result of rising sea levels, increasing people and infrastructure vulnerability and food security risks, particularly in low-lying areas and island states (IPCC, 2019, 2022b). Adaptation and mitigation measures such as the restoration of mangroves and coastal wetlands, reduce the risks from sea level rise (IPCC, 2022c).
 
-KEY FINDINGS
+**KEY FINDINGS**
 
 The altimeter sea level trends over the [1993/01/01, 2023/07/06] period exhibit large-scale variations with trends up to +10 mm/yr in regions such as the western tropical Pacific Ocean. In this area, trends are mainly of thermosteric origin (Legeais et al., 2018; Meyssignac et al., 2017) in response to increased easterly winds during the last two decades associated with the decreasing Interdecadal Pacific Oscillation (IPO)/Pacific Decadal Oscillation (e.g., McGregor et al., 2012; Merrifield et al., 2012; Palanisamy et al., 2015; Rietbroek et al., 2016). Prandi et al. (2021) have estimated a regional altimeter sea level error budget from which they determine a regional error variance-covariance matrix and they provide uncertainties of the regional sea level trends. Over 1993-2019, the averaged local sea level trend uncertainty is around 0.83 mm/yr with local values ranging from 0.78 to 1.22 mm/yr.
 
-References:
+**References:**
 
 Cazenave, A., Dieng, H.-B., Meyssignac, B., von Schuckmann, K., Decharme, B., and Berthier, E.: The rate of sea-level rise, Nature Clim Change, 4, 358–361, https://doi.org/10.1038/nclimate2159, 2014.
 Horwath, M., Gutknecht, B. D., Cazenave, A., Palanisamy, H. K., Marti, F., Marzeion, B., Paul, F., Le Bris, R., Hogg, A. E., Otosaka, I., Shepherd, A., Döll, P., Cáceres, D., Müller Schmied, H., Johannessen, J. A., Nilsen, J. E. Ø., Raj, R. P., Forsberg, R., Sandberg Sørensen, L., Barletta, V. R., Simonsen, S. B., Knudsen, P., Andersen, O. B., Ranndal, H., Rose, S. K., Merchant, C. J., Macintosh, C. R., von Schuckmann, K., Novotny, K., Groh, A., Restano, M., and Benveniste, J.: Global sea-level budget and ocean-mass budget, with a focus on advanced data products and uncertainty characterisation, Earth Syst. Sci. Data, 14, 411–447, https://doi.org/10.5194/essd-14-411-2022, 2022.
